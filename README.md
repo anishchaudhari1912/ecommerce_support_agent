@@ -205,7 +205,7 @@ ecommerce-support-agent/
 │
 ├── utils/
 │   ├── models.py                    # Pydantic data models
-│   └── llm_client.py                # Google Gemini API wrapper
+│   └── llm_client.py                # GROQ API wrapper
 │
 ├── data/
 │   ├── policies/                    # 12 policy markdown documents
