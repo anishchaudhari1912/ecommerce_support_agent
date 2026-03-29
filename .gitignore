@@ -1,0 +1,32 @@
+# Environment
+.env
+.env.example
+*.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Generated data
+data/chroma_db/
+evaluation/results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+logs/

@@ -1,0 +1,1 @@
+# ShopCore Support Resolution Agent

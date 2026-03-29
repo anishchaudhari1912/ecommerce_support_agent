@@ -1,0 +1,20 @@
+{
+  "ticket_id": "CUSTOM-001",
+  "ticket_text": "I ordered a birthday cake for my daughter's party and it arrived completely squashed. The delivery was delayed by 2 days which made it arrive after the party. I want a full refund.",
+  "order_context": {
+    "order_id": "ORD-CUSTOM-001",
+    "order_date": "2024-10-05",
+    "delivery_date": "2024-10-12",
+    "item_name": "Custom Birthday Cake (3-tier)",
+    "item_category": "perishable",
+    "item_value": 89.99,
+    "fulfillment_type": "first_party",
+    "shipping_region": "US-CA",
+    "order_status": "delivered",
+    "payment_method": "credit_card",
+    "is_final_sale": false,
+    "is_marketplace": false,
+    "seller_id": null,
+    "membership_tier": null
+  }
+}
