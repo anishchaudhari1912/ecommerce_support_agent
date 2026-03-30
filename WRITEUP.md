@@ -2,7 +2,7 @@
 
 ## Architecture Overview
 
-The system is a four-agent sequential pipeline built in pure Python using the Anthropic API (Claude Sonnet 4) and ChromaDB for vector retrieval. No CrewAI dependency is required for core functionality — the pipeline is orchestrated by `crew.py` which sequences agents and passes typed Pydantic models between them.
+The system is a four-agent sequential pipeline built in pure Python using the GROQ API and ChromaDB for vector retrieval. No CrewAI dependency is required for core functionality — the pipeline is orchestrated by `crew.py` which sequences agents and passes typed Pydantic models between them.
 
 ```
 Ticket → Triage → Retriever → Resolution Writer → Compliance → TicketResolution
